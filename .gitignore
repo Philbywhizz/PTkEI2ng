@@ -1,0 +1,7 @@
+# Gitignore files
+
+# Ignore python bytecode
+*.pyc
+
+# Don't include any database files
+EmpDB
